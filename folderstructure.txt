@@ -1,0 +1,20 @@
+                                            company-policy-chatbot-rag/
+                                            │
+                                            ├── data/
+                                            │   └── sample_docs/
+                                            │       └── policy.docx
+                                            │
+                                            ├── src/
+                                            │   ├── load_docs.py
+                                            │   ├── chunk_docs.py
+                                            │   ├── embeddings.py
+                                            │   ├── vector_store.py
+                                            │   ├── rag_chain.py
+                                            │   └── app.py
+                                            │
+                                            ├── notebooks/
+                                            │   └── databricks_rag_notebook.ipynb
+                                            │
+                                            ├── requirements.txt
+                                            ├── README.md
+                                            └── .gitignore
